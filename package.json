@@ -1,0 +1,13 @@
+{
+  "name": "lhci",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "lighthouse": "^8.3.0",
+    "template-colors-web": "^1.0.0"
+  },
+  "scripts": {
+    "test": "rm -rf report && npx -p @lhci/cli lhci collect --url https://apprentus.fr/cours-guitare/lyon -n 3 --mode psi --psiApiKey AIzaSyAZCiRHlM4mxzkGxBSr1q0F02pvdrxgq2o && npx -p @lhci/cli lhci upload --target filesystem --outputDir ./report && node --experimental-json-modules output.js"
+  }
+}

@@ -1,0 +1,41 @@
+[
+  {
+    "url": "https://www.apprentus.fr/cours-guitare/lyon",
+    "isRepresentativeRun": false,
+    "htmlPath": "/home/seifeslimene/lhci/report/www_apprentus_fr-_cours_guitare_lyon-2021_08_30_03_57_07.report.html",
+    "jsonPath": "/home/seifeslimene/lhci/report/www_apprentus_fr-_cours_guitare_lyon-2021_08_30_03_57_07.report.json",
+    "summary": {
+      "performance": 0.68,
+      "accessibility": 0.98,
+      "best-practices": 0.93,
+      "seo": 1,
+      "pwa": 0.58
+    }
+  },
+  {
+    "url": "https://www.apprentus.fr/cours-guitare/lyon",
+    "isRepresentativeRun": false,
+    "htmlPath": "/home/seifeslimene/lhci/report/www_apprentus_fr-_cours_guitare_lyon-2021_08_30_03_57_46.report.html",
+    "jsonPath": "/home/seifeslimene/lhci/report/www_apprentus_fr-_cours_guitare_lyon-2021_08_30_03_57_46.report.json",
+    "summary": {
+      "performance": 0.68,
+      "accessibility": 0.98,
+      "best-practices": 1,
+      "seo": 1,
+      "pwa": 0.58
+    }
+  },
+  {
+    "url": "https://www.apprentus.fr/cours-guitare/lyon",
+    "isRepresentativeRun": true,
+    "htmlPath": "/home/seifeslimene/lhci/report/www_apprentus_fr-_cours_guitare_lyon-2021_08_30_03_57_26.report.html",
+    "jsonPath": "/home/seifeslimene/lhci/report/www_apprentus_fr-_cours_guitare_lyon-2021_08_30_03_57_26.report.json",
+    "summary": {
+      "performance": 0.68,
+      "accessibility": 0.98,
+      "best-practices": 0.93,
+      "seo": 1,
+      "pwa": 0.58
+    }
+  }
+]
